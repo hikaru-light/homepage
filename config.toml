@@ -1,6 +1,6 @@
 baseurl                 = "https://hikaru-light.github.io"   # Your domain name. Must end with "/"
 languageCode            = "en-us"
-title                   = "wsssssss"
+title                   = "Shannon | Hikaru Suido"
 theme                   = "introduction"
 enforce_ssl             = false
 builddrafts             = false                             # Include pages with draft status of true
