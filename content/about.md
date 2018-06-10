@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-03-29T04:30:34+09:00
-draft: true
+draft: false
 ---
 
 ##### Hello, my name is **Hikaru Suido**.
