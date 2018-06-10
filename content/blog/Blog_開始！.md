@@ -1,7 +1,7 @@
 ---
 title: "Blog 開始！"
 date: 2018-06-10T05:14:22+09:00
-draft: true
+draft: false
 ---
 
 Blogを始めました！
