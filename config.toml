@@ -1,3 +1,5 @@
+hasCJKLanguage = true
+
 baseurl                 = "https://hikaru-light.github.io/"   # Your domain name. Must end with "/"
 languageCode            = "ja-jp"
 title                   = "Shannon | Hikaru Suido"
