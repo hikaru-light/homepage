@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Shannon | Hikaru Suido</title>
+    <link>https://hikaru-light.github.io/blog/</link>
+    <description>Recent content in Blogs on Shannon | Hikaru Suido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 22 Jun 2018 21:08:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://hikaru-light.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>確率論に関する記事を書きました！その他、近況報告。</title>
+      <link>https://hikaru-light.github.io/blog/20180622/</link>
+      <pubDate>Fri, 22 Jun 2018 21:08:16 +0900</pubDate>
+      
+      <guid>https://hikaru-light.github.io/blog/20180622/</guid>
+      <description>確率論に関する以下の3つの記事を、Qiitaのほうに上げました！ 確率や統計を扱っていく上で根底となる「定義」がメインです。 確率論 ~確率測度~</description>
+    </item>
+    
+    <item>
+      <title>ハッシュテーブルの長さについて、記事を書きました！</title>
+      <link>https://hikaru-light.github.io/blog/20180611/</link>
+      <pubDate>Mon, 11 Jun 2018 03:47:26 +0900</pubDate>
+      
+      <guid>https://hikaru-light.github.io/blog/20180611/</guid>
+      <description>Qiitaのほうで、ハッシュテーブルの長さに「素数」を用いたほうが良い理由について記事を書きました。 よろしければ、参考にしてください！</description>
+    </item>
+    
+    <item>
+      <title>ブログ開始！</title>
+      <link>https://hikaru-light.github.io/blog/20180610/</link>
+      <pubDate>Sun, 10 Jun 2018 05:14:22 +0900</pubDate>
+      
+      <guid>https://hikaru-light.github.io/blog/20180610/</guid>
+      <description>Blogを始めました！ 主に自身の活動について綴っていこうと思います。 技術的なことに関しては、Qiitaのほうを見てください！ ホームページにも</description>
+    </item>
+    
+  </channel>
+</rss>
