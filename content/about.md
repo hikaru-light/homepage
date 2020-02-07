@@ -5,7 +5,7 @@ draft: false
 ---
 
 ##### Hello, my name is **Hikaru Suido**.
-##### I'm a university student, majoring in **Information Technology**.
+##### I'm a university student, majoring in **Computer Science**.
 ##### I will be a **Digital Artist**, so I work on...
 #### as an Artist,
 * 3DCG - Modeling, etc.
