@@ -1,5 +1,5 @@
 hasCJKLanguage = true
-summaryLength = 59
+summaryLength = 57
 
 baseurl                 = "https://hikaru-light.github.io/"   # Your domain name. Must end with "/"
 languageCode            = "ja-jp"
@@ -28,7 +28,7 @@ googleAnalytics       = "UA-100716843-2"
     faviconFile         = "img/fav.ico"
     pygmentsStyle       = "monokai"                         # https://help.farbox.com/pygments.html
     pygmentsCodefences  = true
-    footerText          = "© 2016-2018 Hikaru Suido All Rights Reserved."                                # Text to show in footer (overrides default text)
+    footerText          = "© 2016-2020 Hikaru Suido All Rights Reserved."                                # Text to show in footer (overrides default text)
     fadeIn              = true                              # Turn on/off the fade-in effect
     customCSS           = []                                # Include custom css files e.g. ["css/foo.css", "css/bar.css"]
 
